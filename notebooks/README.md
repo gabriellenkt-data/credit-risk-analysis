@@ -1,18 +1,23 @@
-# Credit Risk Analysis
+# Analyse du risque de crédit
 
-## Project Objective
-This project aims to predict credit card default using machine learning techniques.
+## Objectif du projet
+Ce projet vise à prédire le risque de défaut de paiement des titulaires de cartes de crédit à l’aide de techniques de science des données et d’apprentissage automatique.
 
-## Dataset
+L’objectif est d’identifier les variables financières et comportementales les plus pertinentes afin de modéliser la probabilité de défaut le mois suivant.
+
+## Jeu de données
 Default of Credit Card Clients Dataset (Kaggle)
 
-## Tools Used
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- SQL (exploratory queries)
-- Jupyter Notebook (VS Code)
+Ce jeu de données contient 30 000 observations et 25 variables relatives aux caractéristiques financières, démographiques et comportementales des clients.
 
-## Status
-Project in progress.
+## Outils et technologies utilisés
+- Python
+- Pandas et NumPy (manipulation des données)
+- Matplotlib et Seaborn (visualisation)
+- Scikit-learn (modélisation prédictive)
+- SQL (requêtes exploratoires)
+- Jupyter Notebook (via Visual Studio Code)
+- Git et GitHub (gestion de version)
+
+## État du projet
+Projet terminé : EDA, modélisation (régression logistique et forêt aléatoire), analyse ROC et évaluation.
