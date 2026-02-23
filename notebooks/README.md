@@ -15,9 +15,8 @@ Ce jeu de données contient 30 000 observations et 25 variables relatives aux ca
 - Pandas et NumPy (manipulation des données)
 - Matplotlib et Seaborn (visualisation)
 - Scikit-learn (modélisation prédictive)
-- SQL (requêtes exploratoires)
 - Jupyter Notebook (via Visual Studio Code)
 - Git et GitHub (gestion de version)
 
 ## État du projet
-Projet terminé : EDA, modélisation (régression logistique et forêt aléatoire), analyse ROC et évaluation.
+Projet terminé : EDA, modélisation (régression logistique et forêt aléatoire), analyse ROC et évaluation. 
