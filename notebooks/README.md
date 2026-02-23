@@ -1,4 +1,4 @@
-# Analyse du risque de crédit
+# Modélisation du risque de défaut de paiement par apprentissage automatique
 
 ## Objectif du projet
 Ce projet vise à prédire le risque de défaut de paiement des titulaires de cartes de crédit à l’aide de techniques de science des données et d’apprentissage automatique.
