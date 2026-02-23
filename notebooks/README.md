@@ -19,4 +19,4 @@ Ce jeu de données contient 30 000 observations et 25 variables relatives aux ca
 - Git et GitHub (gestion de version)
 
 ## État du projet
-Projet terminé : EDA, modélisation (régression logistique et forêt aléatoire), analyse ROC et évaluation. 
+Projet terminé : analyse exploratoire des données, modélisation prédictive (régression logistique et forêt d’arbres décisionnels), analyse de la courbe ROC et évaluation des performances du modèle. 
