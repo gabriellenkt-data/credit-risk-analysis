@@ -1,16 +1,21 @@
 # Modélisation du risque de défaut de paiement par apprentissage automatique
+*(English version below)*
 
 ## Objectif du projet
+
 Ce projet vise à prédire le risque de défaut de paiement des titulaires de cartes de crédit à l’aide de techniques de science des données et d’apprentissage automatique.
 
 L’objectif est d’identifier les variables financières et comportementales les plus pertinentes afin de modéliser la probabilité de défaut le mois suivant.
 
 ## Jeu de données
-Default of Credit Card Clients Dataset (Kaggle)
 
-Ce jeu de données contient 30 000 observations et 25 variables relatives aux caractéristiques financières, démographiques et comportementales des clients.
+- Nom : Default of Credit Card Clients  
+- Source : Kaggle  
+- Taille : 30 000 observations  
+- Variables : 25 variables financières, démographiques et comportementales  
 
 ## Outils et technologies utilisés
+
 - Python
 - Pandas et NumPy (manipulation des données)
 - Matplotlib et Seaborn (visualisation)
@@ -18,5 +23,92 @@ Ce jeu de données contient 30 000 observations et 25 variables relatives aux ca
 - Jupyter Notebook (via Visual Studio Code)
 - Git et GitHub (gestion de version)
 
+## Méthodologie
+
+- Nettoyage et préparation des données  
+- Analyse exploratoire des données (EDA)  
+- Sélection des variables  
+- Modélisation prédictive (régression logistique, forêt aléatoire)  
+- Évaluation des performances (courbe ROC, accuracy, précision)  
+
+## Résultats
+
+- Identification des variables influençant le risque de défaut  
+- Modèles capables de prédire efficacement le défaut de paiement  
+- Analyse de la performance à l’aide de la courbe ROC
+
+## Valeur métier
+
+Ce projet permet d’illustrer l’application de la science des données à la gestion du risque de crédit.
+
+Les résultats peuvent être utilisés pour :
+
+- Améliorer la détection des clients à risque  
+- Optimiser les décisions d’octroi de crédit  
+- Réduire les pertes financières liées aux défauts de paiement  
+- Mettre en place des stratégies de gestion du risque plus efficaces  
+
+Ce type de modèle est directement applicable dans les secteurs bancaire et financier.
+
 ## État du projet
-Projet terminé : analyse exploratoire des données, modélisation prédictive (régression logistique et forêt d’arbres décisionnels), analyse de la courbe ROC et évaluation des performances du modèle. 
+
+Projet terminé  
+Note maximale obtenue  
+Cours complété  
+
+# Credit Default Risk Modeling Using Machine Learning
+
+## Project Objective
+
+This project aims to predict the risk of credit card default using data science and machine learning techniques.
+
+The objective is to identify the most relevant financial and behavioral variables in order to model the probability of default in the following month.
+
+## Dataset
+
+- Name: Default of Credit Card Clients  
+- Source: Kaggle  
+- Size: 30,000 observations  
+- Features: 25 financial, demographic, and behavioral variables  
+
+## Tools and Technologies
+
+- Python  
+- Pandas and NumPy (data manipulation)  
+- Matplotlib and Seaborn (data visualization)  
+- Scikit-learn (predictive modeling)  
+- Jupyter Notebook (via Visual Studio Code)  
+- Git and GitHub (version control)  
+
+## Methodology
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature selection  
+- Predictive modeling (Logistic Regression, Random Forest)  
+- Model evaluation (ROC curve, accuracy, precision)  
+
+## Results
+
+- Identification of key variables influencing default risk  
+- Models capable of effectively predicting credit default  
+- Performance analysis using ROC curve  
+
+## Business Value
+
+This project demonstrates the application of data science to credit risk management.
+
+The results can be used to:
+
+- Improve the identification of high-risk customers  
+- Support credit approval decision-making  
+- Reduce financial losses related to defaults  
+- Develop more effective risk management strategies  
+
+This type of model is directly applicable in banking and financial institutions.
+
+## Project Status
+
+Project completed  
+Highest grade achieved  
+Course completed  
