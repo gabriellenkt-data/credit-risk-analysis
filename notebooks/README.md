@@ -37,6 +37,21 @@ L’objectif est d’identifier les variables financières et comportementales l
 - Modèles capables de prédire efficacement le défaut de paiement  
 - Analyse de la performance à l’aide de la courbe ROC
 
+## Performance du modèle
+
+![ROC Curve](roc_curve.png)
+
+## Variables les plus importantes
+
+L’analyse des modèles a permis d’identifier plusieurs variables clés influençant le risque de défaut de paiement :
+
+- Le montant des paiements récents (PAY_AMT)  
+- Le statut de remboursement (historique de paiement)  
+- Le niveau d’utilisation du crédit (BILL_AMT)  
+- Le comportement de paiement au cours des derniers mois  
+
+Ces variables reflètent directement la capacité et le comportement de remboursement des clients.
+
 ## Valeur métier
 
 Ce projet permet d’illustrer l’application de la science des données à la gestion du risque de crédit.
@@ -93,6 +108,21 @@ The objective is to identify the most relevant financial and behavioral variable
 - Identification of key variables influencing default risk  
 - Models capable of effectively predicting credit default  
 - Performance analysis using ROC curve  
+
+## Key Features Influencing Default Risk
+
+The modeling process highlighted several key variables that strongly influence credit default risk:
+
+- Recent payment amounts (PAY_AMT)  
+- Repayment status (payment history)  
+- Credit utilization level (BILL_AMT)  
+- Payment behavior over recent months  
+
+These variables directly reflect the customer’s repayment capacity and behavior.
+
+## Model Performance
+
+![ROC Curve](roc_curve.png)
 
 ## Business Value
 
