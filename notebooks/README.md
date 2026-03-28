@@ -65,6 +65,10 @@ Les résultats peuvent être utilisés pour :
 
 Ce type de modèle est directement applicable dans les secteurs bancaire et financier.
 
+## Contexte
+
+Ce projet a été réalisé dans le cadre d’un certificat universitaire en science des données.
+
 ## État du projet
 
 Projet terminé  
@@ -136,6 +140,10 @@ The results can be used to:
 - Develop more effective risk management strategies  
 
 This type of model is directly applicable in banking and financial institutions.
+
+## Background
+
+This project was completed as part of a university-level data science certificate program.
 
 ## Project Status
 
