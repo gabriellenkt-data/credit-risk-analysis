@@ -39,7 +39,7 @@ L’objectif est d’identifier les variables financières et comportementales l
 
 ## Performance du modèle
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ## Variables les plus importantes
 
@@ -122,7 +122,7 @@ These variables directly reflect the customer’s repayment capacity and behavio
 
 ## Model Performance
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ## Business Value
 
