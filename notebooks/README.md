@@ -75,6 +75,8 @@ Projet terminé
 Note maximale obtenue  
 Cours complété  
 
+---
+
 # Credit Default Risk Modeling Using Machine Learning
 
 ## Project Objective
